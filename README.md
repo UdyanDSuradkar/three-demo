@@ -1,3 +1,9 @@
+# three-demo
+
+This repository demonstrates **three different ways to use [Three.js](https://threejs.org/)** — the powerful 3D JavaScript library. Whether you're just starting out or integrating Three.js into a modern web app stack, this project has an example for you.
+
+## 📁 Structure
+
 
 ---
 
